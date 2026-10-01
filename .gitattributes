@@ -1,0 +1,3 @@
+items/*.tar -text
+items/manifest.tsv text eol=lf
+items/format text eol=lf
